@@ -1,4 +1,4 @@
-require_relative './ordered_words'
+require './ordered_words'
 
 describe 'order words checker' do
   

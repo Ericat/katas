@@ -1,4 +1,4 @@
-require_relative './roman_numerals_to_numbers'
+require './roman_numerals_to_numbers'
 
 describe 'roman numerals to numbers' do
 
